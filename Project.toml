@@ -1,0 +1,15 @@
+name = "invest"
+uuid = "b94e62fe-6d63-4832-9ff6-e4b663319837"
+authors = ["Robert Hillen <hillenr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Clp = "e2554f3b-3117-50c0-817c-e040a3ddf72d"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+MarketData = "945b72a4-3b13-509d-9b46-1525bb5c06de"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+TimeSeries = "9e3dc215-6440-5c97-bce1-76c03772f85e"
